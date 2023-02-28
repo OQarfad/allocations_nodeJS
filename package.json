@@ -17,6 +17,9 @@
   },
   "homepage": "https://github.com/OQarfad/allocations_nodeJS#readme",
   "dependencies": {
-    "express": "^4.18.2"
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2",
+    "mysql": "^2.18.1",
+    "nodemon": "^2.0.20"
   }
 }
